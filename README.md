@@ -1,3 +1,7 @@
+Play a fun game where you win points if you correctly guess the result of the dice roll. A tough, but a fun game!
+Deployed here - https://playydicegame.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
